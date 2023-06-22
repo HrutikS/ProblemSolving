@@ -11,3 +11,5 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |2|Longest Common Prefix|[Solution]()|
 |3|Letter Combinations of a Phone Number|[Solution]()|
 |4|Valid Parantheses|[Solution]()|
+|5|Merge two sorted Lists|[Solution]()|
+|6|Find the Index of the First Occurrence in a String|[Solution]()|
