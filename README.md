@@ -10,6 +10,6 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |1|Roman to Integer|[Solution](https://github.com/HrutikS/ProblemSolving/tree/f5d0dbc685b867bddaa60111c196ba9bc8a9e977/Roman%20To%20Integer)|
 |2|Longest Common Prefix|[Solution](https://github.com/HrutikS/ProblemSolving/tree/b359fb8bb3d1c5bdafa4b883511344f59fa78f0e/Longest%20Common%20Prefix)|
 |3|Letter Combinations of a Phone Number|[Solution](https://github.com/HrutikS/ProblemSolving/tree/d9f495dbfd2fcc75f97ac4a7cb9ee2ce6709abdd/Letter%20Combinations%20of%20a%20Phone%20Number)|
-|4|Valid Parantheses|[Solution]()|
+|4|Valid Parantheses|[Solution](https://github.com/HrutikS/ProblemSolving/tree/3587ee708cb275f5a9ecc71dc6eadfeffe9b75af/ValidParantheses)|
 |5|Merge two sorted Lists|[Solution]()|
 |6|Find the Index of the First Occurrence in a String|[Solution]()|
