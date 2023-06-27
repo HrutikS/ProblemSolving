@@ -12,4 +12,4 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |3|Letter Combinations of a Phone Number|[Solution](https://github.com/HrutikS/ProblemSolving/tree/d9f495dbfd2fcc75f97ac4a7cb9ee2ce6709abdd/Letter%20Combinations%20of%20a%20Phone%20Number)|
 |4|Valid Parantheses|[Solution](https://github.com/HrutikS/ProblemSolving/tree/3587ee708cb275f5a9ecc71dc6eadfeffe9b75af/ValidParantheses)|
 |5|Merge two sorted Lists|[Solution]()|
-|6|Find the Index of the First Occurrence in a String|[Solution]()|
+|6|Find the Index of the First Occurrence in a String|[Solution](https://github.com/HrutikS/ProblemSolving/tree/2c4b7d72c58ddaa447baddfaeb48b72964ae02fe/FindTheIndexOfTheFirstOccurrenceInAString)|
