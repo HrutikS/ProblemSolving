@@ -6,6 +6,7 @@ public class LongestCommonPrefix {
         
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter array of Strings");
+        
         //Setting s.length()=3 for easier and quick inputs
         String[] s = new String[3];
         for (int i = 0; i < s.length; i++) {
@@ -15,7 +16,8 @@ public class LongestCommonPrefix {
         sc.close();
         
     }
-    
+
+    //method to find longestCommonPrefix
     public static String longestCommonPrefix(String[] s){
 
         Arrays.sort(s);
