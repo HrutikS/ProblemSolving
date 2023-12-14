@@ -13,3 +13,4 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |4|Valid Parantheses|[Solution](https://github.com/HrutikS/ProblemSolving/tree/3587ee708cb275f5a9ecc71dc6eadfeffe9b75af/ValidParantheses)|
 |5|Merge two sorted Lists|[Solution]()|
 |6|Find the Index of the First Occurrence in a String|[Solution](https://github.com/HrutikS/ProblemSolving/tree/2c4b7d72c58ddaa447baddfaeb48b72964ae02fe/FindTheIndexOfTheFirstOccurrenceInAString)|
+|7|Special Positions in a Binary Matrix|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/SpecialPositionsInABinaryMatrix)|
