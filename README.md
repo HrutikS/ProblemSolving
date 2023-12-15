@@ -15,3 +15,4 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |6|Find the Index of the First Occurrence in a String|[Solution](https://github.com/HrutikS/ProblemSolving/tree/2c4b7d72c58ddaa447baddfaeb48b72964ae02fe/FindTheIndexOfTheFirstOccurrenceInAString)|
 |7|Special Positions in a Binary Matrix|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/SpecialPositionsInABinaryMatrix)|
 |8|Difference Between Ones and Zeros in Row and Column|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/DifferenceBetweenOnesAndZerosInRowAndColumn)|
+|9|Destination City|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/DestinationCity)|
