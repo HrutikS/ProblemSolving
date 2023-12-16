@@ -16,3 +16,4 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |7|Special Positions in a Binary Matrix|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/SpecialPositionsInABinaryMatrix)|
 |8|Difference Between Ones and Zeros in Row and Column|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/DifferenceBetweenOnesAndZerosInRowAndColumn)|
 |9|Destination City|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/DestinationCity)|
+|10|Valid Anagram|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/ValidAnagram)|
