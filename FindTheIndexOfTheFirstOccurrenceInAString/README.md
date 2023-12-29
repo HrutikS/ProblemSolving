@@ -1,12 +1,21 @@
 # Problem Statement
-Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.  
+You are given a string s consisting only of the characters '0' and '1'. In one operation, you can change any '0' to '1' or vice versa.
 
-Example 1:  
-Input: haystack = "sadbutsad", needle = "sad"  
-Output: 0  
-Explanation: "sad" occurs at index 0 and 6. The first occurrence is at index 0, so we return 0.  
-  
-Example 2:  
-Input: haystack = "leetcode", needle = "leeto"  
-Output: -1  
-Explanation: "leeto" did not occur in "leetcode", so we return -1.
+The string is called alternating if no two adjacent characters are equal. For example, the string "010" is alternating, while the string "0100" is not.
+
+Return the minimum number of operations needed to make s alternating.   
+
+Example 1:   
+Input: s = "0100"   
+Output: 1   
+Explanation: If you change the last character to '1', s will be "0101", which is alternating.   
+
+Example 2:   
+Input: s = "10"   
+Output: 0   
+Explanation: s is already alternating.
+
+Example 3:   
+Input: s = "1111"   
+Output: 2   
+Explanation: You need two operations to reach "0101" or "1010".
