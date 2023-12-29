@@ -19,4 +19,5 @@ Below table marks all the solved questions. Each day's solution is organised in 
 |10|Valid Anagram|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/ValidAnagram)|
 |11|Maximum Product Difference Between Two Pairs|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/MaximumProductDifferenceBetweenTwoPairs)|
 |12|Image Smoother|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/ImageSmoother)|
-|13|Buy Two Chocolates|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/BuyTwoChocolates)|
+|13|Buy Two Chocolates|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/BuyTwoChocolates)|   
+|14|Minimum Changes To Make Alternating Binary String|[Solution](https://github.com/HrutikS/ProblemSolving/tree/main/MinimumChangesToMakeAlternatingBinaryString)|
